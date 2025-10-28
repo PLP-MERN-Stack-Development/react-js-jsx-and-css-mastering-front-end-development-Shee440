@@ -1,0 +1,34 @@
+## React Task Manager
+
+A modern, responsive task management application built with React, Vite, and Tailwind CSS.
+
+## Features
+
+- ✅ Task management with local storage persistence
+- 🌙 Dark/light theme toggle
+- 🔍 User data exploration from JSONPlaceholder API
+- 📱 Fully responsive design
+- ⚡ Built with Vite for fast development
+- 🎨 Styled with Tailwind CSS
+
+## Tech Stack
+
+- **Frontend**: React 18, React Router DOM
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite
+- **State Management**: React Hooks (useState, useEffect, useContext)
+- **API**: JSONPlaceholder
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd react-task-manager
