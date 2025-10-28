@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useLocalStorage } from '../hooks/useLocalStorage';
+import { useLocalStorage } from './hooks/useLocalStorage.js';
 import Card from './card.jsx';
 import Button from './button.jsx';
 
