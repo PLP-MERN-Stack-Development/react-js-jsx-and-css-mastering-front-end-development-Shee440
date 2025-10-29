@@ -102,6 +102,28 @@ Import from components using relative paths, for example inside `components/task
 ```js
 import { useLocalStorage } from './hooks/uselocalstorage.js'
 ```
+## Screenshots
+- Screenshot of light and dark themes
+
+ - Light
+ <img width="1920" height="868" alt="light theme" src="https://github.com/user-attachments/assets/33387be7-886f-4d0f-a317-926a2cbdabdc" />
+
+
+- Dark
+ <img width="1920" height="871" alt="dark theme" src="https://github.com/user-attachments/assets/0d769821-55e6-4702-abce-a6861aa721f7" />
+
+
+- Screenshot of the Taskmanager
+
+<img width="1920" height="866" alt="taskmanager" src="https://github.com/user-attachments/assets/a115008e-27ba-438c-9193-083a2e54a012" />
+
+
+
+- Screenshot of the userlist
+
+<img width="1920" height="872" alt="users" src="https://github.com/user-attachments/assets/3f87d8e7-a475-435d-b1b9-a25f3976c5c5" />
+
+
 
 ## Common Issues & Fixes
 
